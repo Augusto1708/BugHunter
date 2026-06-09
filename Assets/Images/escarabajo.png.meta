@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: cbbe47426a3ed3c42a71c989036505f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: escarabajo_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 168
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e7d207c09ff674ea996646d987e6bd
+      internalID: -248646548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 266
+        width: 119
+        height: 242
+      alignment: 9
+      pivot: {x: 0.4900405, y: 0.81833494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac58604be3629a468fc2ff9d80d430d
+      internalID: -1622516966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 129
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5183749, y: 0.8442447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc5f0ab134e1a44928fad831e048d6
+      internalID: -806429009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 112
+        width: 380
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804fe0cd61522d46bfbb4d47b5be29f
+      internalID: 1898577375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_4
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 572
+        width: 61
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7600553, y: 0.1452508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce674ead0d999d4ba5337d56b5ff99e
+      internalID: -1611370232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_5
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 577
+        width: 55
+        height: 142
+      alignment: 9
+      pivot: {x: 0.2198664, y: 0.107720606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814327448e78924faa40a7370f2057b
+      internalID: 1339844629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 393
+        width: 199
+        height: 152
+      alignment: 9
+      pivot: {x: 0.9266965, y: 0.34415054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7332c4d25f6e345b0b2a963a511988
+      internalID: 1370702660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_7
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 392
+        width: 197
+        height: 152
+      alignment: 9
+      pivot: {x: 0.078868575, y: 0.3128656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692c1d68ec40bc439712fd5452e6e4c
+      internalID: -111258127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 213
+        width: 135
+        height: 149
+      alignment: 9
+      pivot: {x: 0.9254518, y: 0.7624907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e64ac00b0eafc4f9cadcb350d367f9
+      internalID: 1571790472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_9
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 214
+        width: 140
+        height: 147
+      alignment: 9
+      pivot: {x: 0.13597935, y: 0.766062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad852340d5affa94f9a5fbca51d5737e
+      internalID: -1898887559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_10
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 13
+        width: 76
+        height: 185
+      alignment: 9
+      pivot: {x: 0.83005184, y: 0.8979351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175022bb02ece8049949c08280c6ca1e
+      internalID: 630148840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escarabajo_11
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 7
+        width: 76
+        height: 183
+      alignment: 9
+      pivot: {x: 0.20370483, y: 0.92096746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff214635b0be8e4a995d58618f1380b
+      internalID: 2039753032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      escarabajo_1: -1622516966
+      escarabajo_0: -248646548
+      escarabajo_10: 630148840
+      escarabajo_4: -1611370232
+      escarabajo_5: 1339844629
+      escarabajo_9: -1898887559
+      escarabajo_3: 1898577375
+      escarabajo_11: 2039753032
+      escarabajo_6: 1370702660
+      escarabajo_7: -111258127
+      escarabajo_2: -806429009
+      escarabajo_8: 1571790472
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

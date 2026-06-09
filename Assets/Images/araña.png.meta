@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 95f8d9cdf94eb0b4ba3996600c045739
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "ara\xF1a_0"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 82
+        width: 275
+        height: 601
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.5651216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d0e5b596966b429109f141e3ae13a
+      internalID: 584051964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_1"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 576
+        width: 83
+        height: 260
+      alignment: 9
+      pivot: {x: 0.82647336, y: 0.07188956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85bf44c600f1f4f80ece6cdb0882c5
+      internalID: 1385108964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_2"
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 577
+        width: 80
+        height: 259
+      alignment: 9
+      pivot: {x: 0.1738472, y: 0.06345276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5843ecafdbcca842a201b00aa94f0bc
+      internalID: -1879278580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_3"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 604
+        width: 412
+        height: 70
+      alignment: 9
+      pivot: {x: 0.046132874, y: 0.54141587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7e4d1068d1d147a7458750a598e8b
+      internalID: 646498244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_4"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 482
+        width: 409
+        height: 70
+      alignment: 9
+      pivot: {x: 0.9501076, y: 0.4585833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d477b0340229eb4ba795a2402141bd2
+      internalID: -2110767165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_5"
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 56
+        width: 238
+        height: 402
+      alignment: 9
+      pivot: {x: 0.07365815, y: 0.97204113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafdeeb6c96235849a7717ce609e0004
+      internalID: -301837548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_6"
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 58
+        width: 257
+        height: 401
+      alignment: 9
+      pivot: {x: 0.9230233, y: 0.96270233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504837fb3f6092d49bfc64390b21200a
+      internalID: -1175357785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_7"
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 752
+        width: 286
+        height: 245
+      alignment: 9
+      pivot: {x: 0.03370784, y: 0.58874834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc5443e95473d4faab8a381cad1937
+      internalID: -382008138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_8"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 753
+        width: 302
+        height: 245
+      alignment: 9
+      pivot: {x: 0.9655872, y: 0.59466475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ed8bf6fc2d784aa015eac138780ef
+      internalID: -1884102304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ara\xF1a_9"
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 45
+        width: 377
+        height: 700
+      alignment: 9
+      pivot: {x: 0.56151956, y: 0.52016073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c79a12291feb045bc228806b19f720
+      internalID: 201761226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "ara\xF1a_1": 1385108964
+      "ara\xF1a_6": -1175357785
+      "ara\xF1a_8": -1884102304
+      "ara\xF1a_3": 646498244
+      "ara\xF1a_9": 201761226
+      "ara\xF1a_4": -2110767165
+      "ara\xF1a_0": 584051964
+      "ara\xF1a_2": -1879278580
+      "ara\xF1a_5": -301837548
+      "ara\xF1a_7": -382008138
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

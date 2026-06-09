@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 6c33037aae666ec458b80b7f89fac477
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_0
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 14
+        width: 293
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd6ef66f783bc4ebf886792b1d3169
+      internalID: 671640431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 11
+        width: 325
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e991d2993b6d71449499d7e80eaeda4
+      internalID: 1437821246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_2
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 28
+        width: 290
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e168713b6bd4440a03ca6409a92d2d
+      internalID: 1477708392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1018
+        width: 257
+        height: 55
+      alignment: 9
+      pivot: {x: 0.9440645, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6803ee02f7ad7a42a0bc93cd61ecfcc
+      internalID: 1291784818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1007
+        width: 244
+        height: 70
+      alignment: 9
+      pivot: {x: 0.03227609, y: 0.46071428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43dc8a00272a274480c40185c680455
+      internalID: -892343234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 914
+        width: 330
+        height: 75
+      alignment: 9
+      pivot: {x: 0.9499983, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b3f83b5da67a3449cfc052b44a9982
+      internalID: -940877389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 911
+        width: 330
+        height: 75
+      alignment: 9
+      pivot: {x: 0.050001387, y: 0.2708325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df669a55069354b41a87aa026bf9b788
+      internalID: 787228994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 795
+        width: 339
+        height: 96
+      alignment: 9
+      pivot: {x: 0.9725278, y: 0.20638084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c8fb9ed1977914d9d1e00a6c1eae90
+      internalID: -248589310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 792
+        width: 337
+        height: 95
+      alignment: 9
+      pivot: {x: 0.036908068, y: 0.19605328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5507696db60c00f4f90a5beae8fd9297
+      internalID: 1640072455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 587
+        width: 304
+        height: 133
+      alignment: 9
+      pivot: {x: 0.9672121, y: 0.36974257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147a66e32d43bd4997ac893d1931b5f
+      internalID: 1679399915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFatherAndSon_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 601
+        width: 299
+        height: 130
+      alignment: 9
+      pivot: {x: 0.042662043, y: 0.37214732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a534751c8d1418e47add6d99d3f26bd8
+      internalID: -220999780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpiderFatherAndSon_0: 671640431
+      SpiderFatherAndSon_9: 1679399915
+      SpiderFatherAndSon_4: -892343234
+      SpiderFatherAndSon_5: -940877389
+      SpiderFatherAndSon_3: 1291784818
+      SpiderFatherAndSon_7: -248589310
+      SpiderFatherAndSon_10: -220999780
+      SpiderFatherAndSon_8: 1640072455
+      SpiderFatherAndSon_1: 1437821246
+      SpiderFatherAndSon_2: 1477708392
+      SpiderFatherAndSon_6: 787228994
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
